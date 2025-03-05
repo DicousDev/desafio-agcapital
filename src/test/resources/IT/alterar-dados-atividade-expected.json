@@ -1,0 +1,10 @@
+{
+  "idExterno": "40e691e8-929c-4371-9f32-f8bf09835b74",
+  "titulo": "resolver desafio técnico",
+  "descricao": "criar uma API completa",
+  "dataHoraCriacao": "2025-03-04T16:30:00",
+  "responsavel": {
+    "idExterno": "7680a4b2-0a39-4185-82f9-ba5a02fd917d",
+    "nome": "João Victor"
+  }
+}

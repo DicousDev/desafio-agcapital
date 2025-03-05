@@ -1,0 +1,45 @@
+{
+  "content": [
+    {
+      "idExterno": "93bae4f2-7002-4b8b-b913-737d44ff5b4b",
+      "descricao": "Desafio técnico",
+      "status": "ANDAMENTO",
+      "dataHoraCriacao": "2025-03-04T16:30:00",
+      "dataHoraAtualizacao": null,
+      "dataFinalizacao": null
+    },
+    {
+      "idExterno": "baf0640d-c563-4465-b3a0-41fc8240a100",
+      "descricao": "Criar aplicações mordenas",
+      "status": "ANDAMENTO",
+      "dataHoraCriacao": "2025-03-04T16:30:00",
+      "dataHoraAtualizacao": null,
+      "dataFinalizacao": null
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 10,
+    "sort": {
+      "empty": true,
+      "unsorted": true,
+      "sorted": false
+    },
+    "offset": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": true,
+  "totalElements": 2,
+  "totalPages": 1,
+  "size": 10,
+  "number": 0,
+  "sort": {
+    "empty": true,
+    "unsorted": true,
+    "sorted": false
+  },
+  "first": true,
+  "numberOfElements": 2,
+  "empty": false
+}

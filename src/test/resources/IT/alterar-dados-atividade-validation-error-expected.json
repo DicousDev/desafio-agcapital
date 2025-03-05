@@ -1,0 +1,20 @@
+{
+  "details": "Erro no payload.",
+  "status": 400,
+  "path": "/atividades",
+  "timestamp": "2025-03-05T12:46:01.8038879",
+  "erros": [
+    {
+      "field": "idExterno",
+      "value": "não deve ser nulo"
+    },
+    {
+      "field": "titulo",
+      "value": "não deve estar em branco"
+    },
+    {
+      "field": "status",
+      "value": "não deve ser nulo"
+    }
+  ]
+}
